@@ -26,6 +26,7 @@ We used MySQL to create database, drawing Entity-Relationship- Diagram and lever
 - Best-selling product line: Electronic accessories.
 - Most profitable product line: Food and beverage.
 - Importance of having a database to keep tracking customer behavior.
+
 Super Saver Day Promotion
 - Promote the most profitable product line to leverage sales and profit.
 - Offer promotions exclusively to members to increase the number of memberships.
